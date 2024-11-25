@@ -6,7 +6,7 @@ _Cet indice évalue la liberté d'expression et la sécurité des journalistes d
 <details>
 
 <summary>
-##Histoire des indicateurs de liberté de presse
+***Histoire des indicateurs de liberté de presse***
 </summary>
 (Voila l'histoire des indicateurs de liberté de presse)
 
